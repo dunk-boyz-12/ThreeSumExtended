@@ -4,6 +4,6 @@ The program finds all distinct triplets that sum to 0 within the list and times 
 
 The algorithms run in
 
-1. n3 cubic time
-2. n2*log(n)
-3. n2
+1. n3 cubic time - duplicates
+2. n2*log(n) - duplicates
+3. n2 - no duplicates
